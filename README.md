@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with Android Kotlin and Flutter Framework
 - 👯 I’m looking to collaborate on open source Android Kotlin and Flutter project
 - 💬 Ask me about Java | Kotlin and Flutter
-- 📫 How to reach me: [Github](https://github.com/srnunio), [Medium](https://medium.com/@edvaldonuniomartins/), [Linkedin](https://www.linkedin.com/in/edvaldo-martins-7a6a73151/)
+- 📫 How to reach me: [Medium](https://medium.com/@edvaldonuniomartins/), [Linkedin](https://www.linkedin.com/in/edvaldo-martins-7a6a73151/)
 
 **Languages and Tools:**
 
