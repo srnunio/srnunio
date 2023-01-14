@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a software engineer with 6+ years of mobile application development experience.
+### I'm a software engineer with 5+ years of mobile application development experience.
 
 **Languages and Tools:**
 
