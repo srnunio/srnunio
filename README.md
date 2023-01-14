@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-### I'm Edvaldo, a passionate Mobile Engineer.
-
-- 🌱 I’m currently working with Flutter Framework
-- 👯 I’m looking to collaborate on open source Android Kotlin and Flutter project
-- 💬 Ask me about Firebase | Kotlin and Flutter
-- 📫 How to reach me: [Medium](https://medium.com/@edvaldonuniomartins/), [Linkedin](https://www.linkedin.com/in/edvaldo-martins-7a6a73151/)
+### I'm a software engineer with 6+ years of mobile application development experience.
 
 **Languages and Tools:**
 
